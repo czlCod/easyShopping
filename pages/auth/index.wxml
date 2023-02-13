@@ -1,0 +1,1 @@
+<button bindtap="getPower">获取授权</button>

@@ -1,0 +1,5 @@
+<view class="search_row">
+  <input placeholder="请输入要搜索的商品"></input>
+
+  <button>取消</button>
+</view>
